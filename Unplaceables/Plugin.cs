@@ -10,8 +10,7 @@ using System.IO;
 
 namespace Unplaceables
 {
-
-	[ApiVersion(1, 21)]
+	[ApiVersion(1, 25)]
 	public class Plugin : TerrariaPlugin
 	{
 		public override string Name { get { return "Unplaceables"; } }
@@ -334,6 +333,4 @@ namespace Unplaceables
 			isAuto = _isAuto;
 		}
 	}
-
-
 }
