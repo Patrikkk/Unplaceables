@@ -1,17 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Terraria;
 using TerrariaApi.Server;
 using TShockAPI;
-using TShockAPI.Hooks;
-using System.IO;
 
 namespace Unplaceables
 {
 
-	[ApiVersion(1, 21)]
+    [ApiVersion(2, 1)]
 	public class Plugin : TerrariaPlugin
 	{
 		public override string Name { get { return "Unplaceables"; } }
