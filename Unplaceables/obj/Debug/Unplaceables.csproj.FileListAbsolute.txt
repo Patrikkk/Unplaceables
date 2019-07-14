@@ -2,3 +2,9 @@ C:\Users\Magic\Documents\Debug\ServerPlugins\Unplaceables.dll
 C:\Users\Magic\Documents\Debug\ServerPlugins\Unplaceables.pdb
 C:\Users\Magic\Documents\Visual Studio 2010\Projects\Unplaceables\Unplaceables\obj\Debug\Unplaceables.dll
 C:\Users\Magic\Documents\Visual Studio 2010\Projects\Unplaceables\Unplaceables\obj\Debug\Unplaceables.pdb
+C:\Users\Alex\Debug\ServerPlugins\Unplaceables.dll
+C:\Users\Alex\Debug\ServerPlugins\Unplaceables.pdb
+C:\Users\Alex\Documents\GitHub\Unplaceables\Unplaceables\obj\Debug\Unplaceables.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Unplaceables\Unplaceables\obj\Debug\Unplaceables.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\Unplaceables\Unplaceables\obj\Debug\Unplaceables.dll
+C:\Users\Alex\Documents\GitHub\Unplaceables\Unplaceables\obj\Debug\Unplaceables.pdb
